@@ -1,1 +1,2 @@
 This file was added remotely to the remote repo(GITHUB) at 21:21 hrs
+This line was added to create a conflict with local/master. Line added in remote at 21:19 (IST)
