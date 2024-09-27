@@ -1,3 +1,8 @@
-This file was added remotely to the remote repo(GITHUB) at 21:21 hrs
 
+The below code was written in origin master.
+This line was added to create a conflict with local/master. Line added in remote at 21:19 (IST)
+This file was added remotely to the remote repo(GITHUB) at 21:21 hrs
 This is modified in renita_ml at 21:22 (IST).
+This is done to resolve the conflict.
+
+
